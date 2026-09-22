@@ -1,0 +1,6021 @@
+{
+  "semester": "Fall 2026",
+  "academicYear": "2026-27",
+  "university": "Amity University Bengaluru",
+  "system": "SCFAS",
+  "program": "B.Tech Artificial Intelligence & Machine Learning",
+  "offerings": [
+    {
+      "id": "CSE1017-2",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Punam",
+      "labFaculty": "Dr.Punam",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L25+L26",
+        "L39+L40"
+      ],
+      "cells": [
+        1,
+        12,
+        13,
+        18,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-3",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Punam",
+      "labFaculty": "Dr.Punam",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L15+L16",
+        "L5+L6"
+      ],
+      "cells": [
+        6,
+        8,
+        9,
+        26,
+        27,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-4",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Rituparna Choudhary",
+      "labFaculty": "Dr.Rituparna Choudhary",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L1+L2",
+        "L13+L14"
+      ],
+      "cells": [
+        0,
+        1,
+        9,
+        24,
+        25,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-5",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Rituparna Choudhary",
+      "labFaculty": "Dr.Rituparna Choudhary",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L9+L10",
+        "L31+L32"
+      ],
+      "cells": [
+        14,
+        16,
+        17,
+        22,
+        23,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-6",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Priya Singh",
+      "labFaculty": "Dr.Priya Singh",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L21+L22",
+        "L19+L20"
+      ],
+      "cells": [
+        2,
+        4,
+        5,
+        24,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-7",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Mr.Sreethran",
+      "labFaculty": "Mr.Sreethran",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L25+L26",
+        "L15+L16"
+      ],
+      "cells": [
+        10,
+        12,
+        13,
+        26,
+        27,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-8",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Mr.Sreethran",
+      "labFaculty": "Mrs. Sudha",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L23+L24",
+        "L39+L40"
+      ],
+      "cells": [
+        5,
+        6,
+        7,
+        22,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-9",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Priyanka Gupta",
+      "labFaculty": "Dr.Priyanka Gupta",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L23+L24",
+        "L31+L32"
+      ],
+      "cells": [
+        6,
+        7,
+        13,
+        22,
+        23,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-10",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Priyanka Gupta",
+      "labFaculty": "Ms.Manisha",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L1+L2",
+        "L11+L12"
+      ],
+      "cells": [
+        0,
+        1,
+        10,
+        18,
+        19,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-11",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr. Harinadh",
+      "labFaculty": "Dr. Harinadh",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L29+L30",
+        "L37+L38"
+      ],
+      "cells": [
+        1,
+        18,
+        20,
+        21,
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-12",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Suresh Kumar",
+      "labFaculty": "Dr.Suresh Kumar",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L11+L12",
+        "L15+L16"
+      ],
+      "cells": [
+        14,
+        18,
+        19,
+        26,
+        27,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1017-13",
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 4,
+      "theoryFaculty": "Dr.Suresh Kumar",
+      "labFaculty": "Dr.Suresh Kumar",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L23+L24",
+        "L39+L40"
+      ],
+      "cells": [
+        2,
+        6,
+        7,
+        24,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 55,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-14",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ruhin Kouser",
+      "labFaculty": "Dr. Ruhin Kouser",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        9,
+        26,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-15",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ruhin Kouser",
+      "labFaculty": "Dr. Ruhin Kouser",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7,
+        13,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-16",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Namrat Singh",
+      "labFaculty": "Ms.Vaishnavi.C",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        2,
+        10,
+        11,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-17",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Satya",
+      "labFaculty": "Dr.Satya",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        13,
+        26,
+        27,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-18",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Satya",
+      "labFaculty": "Dr.Satya",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L37+L38"
+      ],
+      "cells": [
+        6,
+        28,
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-19",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vikram",
+      "labFaculty": "Dr.Vikram",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        5,
+        22,
+        26,
+        27
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-20",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Namrat Singh",
+      "labFaculty": "Dr.Namrat Singh",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L17+L18"
+      ],
+      "cells": [
+        5,
+        22,
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-21",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Harish Kumar",
+      "labFaculty": "Dr.Harish Kumar",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        2,
+        20,
+        21,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-22",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Harish Kumar",
+      "labFaculty": "Dr.Harish Kumar",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        13,
+        26,
+        27,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-23",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Sonali",
+      "labFaculty": "Ms.Sonali",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        9,
+        14,
+        15,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-24",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Vaishnavi.C",
+      "labFaculty": "Ms.Vaishnavi.C",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        1,
+        18,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2046-25",
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Vaishnavi.C",
+      "labFaculty": "Ms.Vaishnavi.C",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L17+L18"
+      ],
+      "cells": [
+        6,
+        28,
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 65,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-26",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajat",
+      "labFaculty": "Dr.Rajat",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-27",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajat",
+      "labFaculty": "Dr.Rajat",
+      "theorySlots": [
+        "B2"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        12,
+        18,
+        19,
+        23,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-28",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Avinash",
+      "labFaculty": "Dr.Avinash",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        0,
+        10,
+        11,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-29",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Avinash",
+      "labFaculty": "Dr.Rajat",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        14,
+        15,
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-30",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Namrat Singh",
+      "labFaculty": "Dr.Namrat Singh",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        20,
+        28,
+        29,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-31",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vaishnavi.K",
+      "labFaculty": "Dr.Sheebha",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        8,
+        19,
+        25,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-32",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vaishnavi.K",
+      "labFaculty": "Dr.Namrat Singh",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7,
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-33",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Satya",
+      "labFaculty": "Dr.Satya",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [
+        "L31+L32"
+      ],
+      "cells": [
+        8,
+        19,
+        22,
+        23,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2001-34",
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "category": "School Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajesh",
+      "labFaculty": "Dr.Rajesh",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 76,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-35",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajesh",
+      "labFaculty": "Dr.Rajesh",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        10,
+        18,
+        19,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-36",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajesh",
+      "labFaculty": "Dr.Rajesh",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L37+L38"
+      ],
+      "cells": [
+        6,
+        28,
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-37",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Swarnalatha K.S",
+      "labFaculty": "Dr.Swarnalatha K.S",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        9,
+        10,
+        11,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-38",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "New Faculty",
+      "labFaculty": "Ms.Sonali",
+      "theorySlots": [],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": true,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-39",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Vaishnavi.C",
+      "labFaculty": "Ms.Vaishnavi.C",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L13+L14"
+      ],
+      "cells": [
+        13,
+        24,
+        25,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-40",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Manisha",
+      "labFaculty": "Ms.Manisha",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L17+L18"
+      ],
+      "cells": [
+        9,
+        26,
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2007-41",
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Manisha",
+      "labFaculty": "Ms.Manisha",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        6,
+        12,
+        13,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 68,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-42",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Jagadevi",
+      "labFaculty": "Dr.Jagadevi",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        1,
+        18,
+        26,
+        27
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-43",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Jagadevi",
+      "labFaculty": "Dr.Jagadevi",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        6,
+        28,
+        30,
+        31
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-44",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Judeson",
+      "labFaculty": "Dr.Judeson",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        9,
+        12,
+        13,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-45",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Senthil Kumar",
+      "labFaculty": "Dr.Senthil Kumar",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        10,
+        11,
+        13,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-46",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Senthil Kumar",
+      "labFaculty": "Dr.Senthil Kumar",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L9+L10"
+      ],
+      "cells": [
+        5,
+        16,
+        17,
+        22
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-47",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr Nashreen",
+      "labFaculty": "Dr Nashreen",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        14,
+        30,
+        31,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-48",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ajay",
+      "labFaculty": "Dr.Ajay",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        1,
+        18,
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-49",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Anughna",
+      "labFaculty": "Dr.Anughna",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        6,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-50",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Anughna",
+      "labFaculty": "Dr.Anughna",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        9,
+        26,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-51",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Judeson",
+      "labFaculty": "Dr. Judeson",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        10,
+        30,
+        31,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1035-52",
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "New Faculty",
+      "labFaculty": "Dr.Anughna",
+      "theorySlots": [],
+      "labSlots": [
+        "L17+L18"
+      ],
+      "cells": [
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": true,
+      "project": false,
+      "aimlScore": 88,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-53",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Mrs.Sreevidya",
+      "labFaculty": "Dr.Priya Singh",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        10,
+        20,
+        21,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-54",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Swastik sahoo",
+      "labFaculty": "Dr.Sarfraz",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        1,
+        18,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-55",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Levy",
+      "labFaculty": "Dr.Levy",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L17+L18"
+      ],
+      "cells": [
+        5,
+        22,
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-56",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Swastik sahoo",
+      "labFaculty": "Dr.Swastik sahoo",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        6,
+        14,
+        15,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-57",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ajay",
+      "labFaculty": "Dr.Ajay",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L21+L22"
+      ],
+      "cells": [
+        2,
+        4,
+        5,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-58",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Swastik sahoo",
+      "labFaculty": "Dr.Swastik sahoo",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L31+L32"
+      ],
+      "cells": [
+        10,
+        22,
+        23,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-59",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Swastik sahoo",
+      "labFaculty": "Dr.Swastik sahoo",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L9+L10"
+      ],
+      "cells": [
+        13,
+        16,
+        17,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-60",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Sarfraz",
+      "labFaculty": "Dr.Sarfraz",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L21+L22"
+      ],
+      "cells": [
+        1,
+        4,
+        5,
+        18
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-61",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Priya Singh",
+      "labFaculty": "Dr.Priya Singh",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L9+L10"
+      ],
+      "cells": [
+        14,
+        16,
+        17,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-62",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Levy",
+      "labFaculty": "Dr.Levy",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L13+L14"
+      ],
+      "cells": [
+        6,
+        24,
+        25,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-63",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ajay",
+      "labFaculty": "Dr.Ajay",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L5+L6"
+      ],
+      "cells": [
+        8,
+        9,
+        13,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2006-64",
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rituparna Choudhary",
+      "labFaculty": "Dr.Rituparna Choudhary",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L21+L22"
+      ],
+      "cells": [
+        4,
+        5,
+        6,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 58,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2033-65",
+      "code": "CSE2033",
+      "name": "Cloud Computing for IoT",
+      "category": "IoT Basket",
+      "basket": "IoT",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Harinadh",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "Specialization Basket Courses",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 48,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2001-66",
+      "code": "ECE2001",
+      "name": "IoT Architecture and Protocols",
+      "category": "IoT Basket",
+      "basket": "IoT",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Judeson",
+      "labFaculty": "",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [],
+      "cells": [
+        0,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2001-67",
+      "code": "ECE2001",
+      "name": "IoT Architecture and Protocols",
+      "category": "IoT Basket",
+      "basket": "IoT",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Satya",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2038-68",
+      "code": "CSE2038",
+      "name": "Cloud Computing Platforms",
+      "category": "Cloud Computing Basket",
+      "basket": "Cloud Computing",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vikram",
+      "labFaculty": "Dr.Vikram",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L5+L6"
+      ],
+      "cells": [
+        8,
+        9,
+        13,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 62,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3018-69",
+      "code": "CSE3018",
+      "name": "MEAN/ MERN Stack",
+      "category": "Full Stack Basket",
+      "basket": "Full Stack",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Senthil",
+      "labFaculty": "Dr.Senthil",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L13+L14"
+      ],
+      "cells": [
+        9,
+        24,
+        25,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 52,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2022-70",
+      "code": "CSE2022",
+      "name": "Front End Engineering",
+      "category": "Full Stack Basket",
+      "basket": "Full Stack",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Shobha K",
+      "labFaculty": "Dr.Shobha K",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L1+L2"
+      ],
+      "cells": [
+        0,
+        1,
+        9,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 50,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2022-71",
+      "code": "CSE2022",
+      "name": "Front End Engineering",
+      "category": "Full Stack Basket",
+      "basket": "Full Stack",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Mr.Pranav",
+      "labFaculty": "Mr.Pranav",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        5,
+        12,
+        13,
+        22
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 50,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2040-72",
+      "code": "CSE2040",
+      "name": "Continuous Integration and Continuous Deployment",
+      "category": "DevOps Basket",
+      "basket": "DevOps",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Mr.Sreetharan",
+      "labFaculty": "Mr.Sreetharan",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        1,
+        18,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 54,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2035-73",
+      "code": "CSE2035",
+      "name": "DevOps",
+      "category": "DevOps Basket",
+      "basket": "DevOps",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Vinob C",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 56,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2035-74",
+      "code": "CSE2035",
+      "name": "DevOps",
+      "category": "DevOps Basket",
+      "basket": "DevOps",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Vinob C",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 56,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2029-75",
+      "code": "CSE2029",
+      "name": "Business Analytics Fundamentals",
+      "category": "Data Analytics Basket",
+      "basket": "Data Analytics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Nirmal Kumar",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 80,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1012-76",
+      "code": "CSE1012",
+      "name": "R Programming for Data Analytics",
+      "category": "Data Analytics Basket",
+      "basket": "Data Analytics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr Nashreen",
+      "labFaculty": "Dr Nashreen",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        9,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 86,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1012-77",
+      "code": "CSE1012",
+      "name": "R Programming for Data Analytics",
+      "category": "Data Analytics Basket",
+      "basket": "Data Analytics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vinob C",
+      "labFaculty": "Dr.Vinob C",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        2,
+        14,
+        15,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 86,
+      "section": "computing"
+    },
+    {
+      "id": "CSE1012-78",
+      "code": "CSE1012",
+      "name": "R Programming for Data Analytics",
+      "category": "Data Analytics Basket",
+      "basket": "Data Analytics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr Nashreen",
+      "labFaculty": "Dr Nashreen",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        6,
+        18,
+        19,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 86,
+      "section": "computing"
+    },
+    {
+      "id": "ECE3023-79",
+      "code": "ECE3023",
+      "name": "Mechatronic System Design",
+      "category": "Robotics Basket",
+      "basket": "Robotics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Manjunath",
+      "labFaculty": "Dr.Manjunath",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        1,
+        18,
+        26,
+        27
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 34,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3031-80",
+      "code": "CSE3031",
+      "name": "Autonomous Mobile Robots",
+      "category": "Robotics Basket",
+      "basket": "Robotics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Manjunath",
+      "labFaculty": "Dr.Manjunath",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        2,
+        24,
+        30,
+        31
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 40,
+      "section": "computing"
+    },
+    {
+      "id": "ECE3036-81",
+      "code": "ECE3036",
+      "name": "Robotic System Mechanics",
+      "category": "Robotics Basket",
+      "basket": "Robotics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Prabin Kumar Jha",
+      "labFaculty": "Dr.Prabin Kumar Jha",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        5,
+        22,
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 32,
+      "section": "computing"
+    },
+    {
+      "id": "ECE3026-82",
+      "code": "ECE3026",
+      "name": "Building Robots",
+      "category": "Robotics Basket",
+      "basket": "Robotics",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 0,
+      "practical": 0,
+      "theoryFaculty": "Dr.Prabin Kumar Jha",
+      "labFaculty": "",
+      "theorySlots": [],
+      "labSlots": [],
+      "cells": [],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": true,
+      "aimlScore": 30,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3023-83",
+      "code": "CSE3023",
+      "name": "Fundamentals of Cloud Security",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Akilarasu",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 48,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3023-84",
+      "code": "CSE3023",
+      "name": "Fundamentals of Cloud Security",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Akilarasu",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 48,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3022-85",
+      "code": "CSE3022",
+      "name": "Intrusion Detection and Prevention System",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Raman",
+      "labFaculty": "Dr.Raman",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        2,
+        18,
+        19,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 60,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3022-86",
+      "code": "CSE3022",
+      "name": "Intrusion Detection and Prevention System",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Raman",
+      "labFaculty": "Dr.Raman",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L21+L22"
+      ],
+      "cells": [
+        4,
+        5,
+        9,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 60,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3025-87",
+      "code": "CSE3025",
+      "name": "Networking and System Administration",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Raman",
+      "labFaculty": "Dr.Raman",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L31+L32"
+      ],
+      "cells": [
+        14,
+        22,
+        23,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 50,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3025-88",
+      "code": "CSE3025",
+      "name": "Networking and System Administration",
+      "category": "Cyber Security Basket",
+      "basket": "Cyber Security",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Raman",
+      "labFaculty": "Dr.Raman",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        6,
+        28,
+        30,
+        31
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 50,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3013-89",
+      "code": "CSE3013",
+      "name": "Deep Neural Networks",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Neha",
+      "labFaculty": "Dr. Neha",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        5,
+        22,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 95,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3013-90",
+      "code": "CSE3013",
+      "name": "Deep Neural Networks",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Neha",
+      "labFaculty": "Dr. Neha",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        9,
+        20,
+        21,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 95,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3010-91",
+      "code": "CSE3010",
+      "name": "AI & ML Applications",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ruhin Kouser",
+      "labFaculty": "Dr. Ruhin Kouser",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        14,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 100,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3011-92",
+      "code": "CSE3011",
+      "name": "Machine Learning Techniques",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Priyanka gupta",
+      "labFaculty": "Dr.Priyanka gupta",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L37+L38"
+      ],
+      "cells": [
+        1,
+        18,
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 100,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3011-93",
+      "code": "CSE3011",
+      "name": "Machine Learning Techniques",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Sonali",
+      "labFaculty": "Ms.Sonali",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L37+L38"
+      ],
+      "cells": [
+        13,
+        30,
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 100,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3011-94",
+      "code": "CSE3011",
+      "name": "Machine Learning Techniques",
+      "category": "AI & ML Basket",
+      "basket": "AI & ML",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Sonali",
+      "labFaculty": "Ms.Sonali",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7,
+        10,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 100,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-95",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr.Pranav",
+      "labFaculty": "",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [],
+      "cells": [
+        0,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-96",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr.Pranav",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-97",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr.Pranav",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-98",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr.Pranav",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-99",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Akilarasu",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-100",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Akilarasu",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-101",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Vikram",
+      "labFaculty": "",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [],
+      "cells": [
+        0,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3003-102",
+      "code": "CSE3003",
+      "name": "Cryptography and Network Security",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Vikram",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 72,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-103",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Jagadevi",
+      "labFaculty": "Dr.Jagadevi",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        10,
+        12,
+        13,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-104",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Shobha K",
+      "labFaculty": "Dr.Shobha K",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        1,
+        18,
+        30,
+        31
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-105",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Jagadevi",
+      "labFaculty": "Dr.Jagadevi",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        5,
+        22,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-106",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Shobha K",
+      "labFaculty": "Dr.Shobha K",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        2,
+        24,
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-107",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Sudha",
+      "labFaculty": "Ms.Sudha",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        14,
+        18,
+        19,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-108",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Nirmal Kumar",
+      "labFaculty": "Dr.Nirmal Kumar",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        10,
+        26,
+        27,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-109",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Nirmal Kumar",
+      "labFaculty": "Dr.Nirmal Kumar",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        5,
+        20,
+        21,
+        22
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2009-110",
+      "code": "CSE2009",
+      "name": "Data Analytics and Visualization",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Ms.Manisha",
+      "labFaculty": "Ms.Manisha",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        14,
+        30,
+        31,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 92,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3016-111",
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr.Sreetharan",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3016-112",
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mrs. Sudha",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3016-113",
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Avinash",
+      "labFaculty": "",
+      "theorySlots": [
+        "A2"
+      ],
+      "labSlots": [],
+      "cells": [
+        4,
+        21,
+        38
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3016-114",
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Avinash",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3016-115",
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Avinash",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 38,
+      "section": "computing"
+    },
+    {
+      "id": "ECE1010-116",
+      "code": "ECE1010",
+      "name": "Digital Design, Microprocessors and Microcontrollers",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 4,
+      "lecture": 3,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vijayshree",
+      "labFaculty": "Dr.Vijayshree",
+      "theorySlots": [
+        "B2"
+      ],
+      "labSlots": [
+        "L11+L12",
+        "L17+L18"
+      ],
+      "cells": [
+        12,
+        18,
+        19,
+        23,
+        29,
+        32,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 45,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-117",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Harish Kumar",
+      "labFaculty": "Dr.Harish Kumar",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7,
+        10,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-118",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Shobha M.S",
+      "labFaculty": "Dr.Shobha M.S",
+      "theorySlots": [
+        "F2"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        5,
+        14,
+        15,
+        22
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-119",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ganesh",
+      "labFaculty": "Dr.Ganesh",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        2,
+        24,
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-120",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ganesh",
+      "labFaculty": "Dr.Ganesh",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        13,
+        20,
+        21,
+        30
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-121",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Harinadh",
+      "labFaculty": "Dr. Harinadh",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        13,
+        30,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-122",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Harinadh",
+      "labFaculty": "Dr. Harinadh",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        10,
+        26,
+        27,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2008-123",
+      "code": "CSE2008",
+      "name": "Cloud Computing",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Mahira Kiramani",
+      "labFaculty": "Dr.Mahira Kiramani",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        2,
+        18,
+        19,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 74,
+      "section": "computing"
+    },
+    {
+      "id": "CSE2016-124",
+      "code": "CSE2016",
+      "name": "Software Quality Assurance",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Parthiban Ramamurthy",
+      "labFaculty": "Dr. Parthiban Ramamurthy",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L5+L6"
+      ],
+      "cells": [
+        1,
+        8,
+        9,
+        18
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 40,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2007-126",
+      "code": "ECE2007",
+      "name": "Wireless and Mobile Communications",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Anughna",
+      "labFaculty": "Dr.Levy",
+      "theorySlots": [
+        "E2"
+      ],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        10,
+        11,
+        14,
+        36
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 28,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2008-127",
+      "code": "ECE2008",
+      "name": "Data Communications and Networks",
+      "category": "College Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Ajay",
+      "labFaculty": "Dr.Ajay",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L31+L32"
+      ],
+      "cells": [
+        10,
+        22,
+        23,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 28,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2033-128",
+      "code": "ECE2033",
+      "name": "Embedded System Design",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Judeson",
+      "labFaculty": "Dr.Judeson",
+      "theorySlots": [
+        "D1"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        2,
+        20,
+        21,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2027-129",
+      "code": "ECE2027",
+      "name": "Image and Video Processing",
+      "category": "Specialization Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Mrs.Sreevidya",
+      "labFaculty": "Mrs.Sreevidya",
+      "theorySlots": [
+        "D2"
+      ],
+      "labSlots": [
+        "L13+L14"
+      ],
+      "cells": [
+        6,
+        24,
+        25,
+        28
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 32,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2029-130",
+      "code": "ECE2029",
+      "name": "Satellite Communication",
+      "category": "Specialization Elective",
+      "basket": null,
+      "group": "elective",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Levy",
+      "labFaculty": "Dr.Levy",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3,
+        9,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 24,
+      "section": "computing"
+    },
+    {
+      "id": "ECE3002-131",
+      "code": "ECE3002",
+      "name": "VLSI System Design",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Priya Singh",
+      "labFaculty": "Dr.Priya Singh",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        1,
+        18,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "computing"
+    },
+    {
+      "id": "ECE3036-132",
+      "code": "ECE3036",
+      "name": "System and Network on Chip",
+      "category": "VLSI Basket",
+      "basket": "VLSI",
+      "group": "basket",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "New Faculty",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 32,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2034-135",
+      "code": "ECE2034",
+      "name": "Analog Circuits",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Vijayshree",
+      "labFaculty": "Dr.Vijayshree",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L21+L22",
+        "L19+L20"
+      ],
+      "cells": [
+        4,
+        5,
+        9,
+        26,
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 26,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2031-136",
+      "code": "ECE2031",
+      "name": "Signals and Systems",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Anughna",
+      "labFaculty": "Dr.Anughna",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        1,
+        18,
+        20,
+        21
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 34,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2032-137",
+      "code": "ECE2032",
+      "name": "Circuit Theory and control systems",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Ms.Sreevidya",
+      "labFaculty": "",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        1,
+        14,
+        15,
+        18
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 26,
+      "section": "computing"
+    },
+    {
+      "id": "ECE1006-138",
+      "code": "ECE1006",
+      "name": "Digital Design and Modelling",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Sarfraz",
+      "labFaculty": "Dr.Sarfraz",
+      "theorySlots": [
+        "E1"
+      ],
+      "labSlots": [
+        "L31+L32",
+        "L35+L36"
+      ],
+      "cells": [
+        10,
+        22,
+        23,
+        30,
+        31,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 28,
+      "section": "computing"
+    },
+    {
+      "id": "ECE1004-139",
+      "code": "ECE1004",
+      "name": "Engineering Electromagnetics",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 2,
+      "lecture": 2,
+      "practical": 0,
+      "theoryFaculty": "Dr.Swastik sahoo",
+      "labFaculty": "",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [],
+      "cells": [
+        9,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 22,
+      "section": "computing"
+    },
+    {
+      "id": "ECE2043-140",
+      "code": "ECE2043",
+      "name": "Battery Management System",
+      "category": "Program Core",
+      "basket": null,
+      "group": "core",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Surajit( Only for EVT)",
+      "labFaculty": "Dr.Surajit",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7,
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 24,
+      "section": "computing"
+    },
+    {
+      "id": "CSE3050-142",
+      "code": "CSE3050",
+      "name": "Programming Skills for Employment.",
+      "category": "Postgraduate",
+      "basket": null,
+      "group": "pg",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Dr. Priyanka Chakraborty",
+      "labFaculty": "",
+      "theorySlots": [],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        12,
+        13
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 22,
+      "section": "pg"
+    },
+    {
+      "id": "CSE5020-143",
+      "code": "CSE5020",
+      "name": "Natural Language Processing Techniques",
+      "category": "Postgraduate",
+      "basket": "AI & ML",
+      "group": "pg",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr Nashreen",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 90,
+      "section": "pg"
+    },
+    {
+      "id": "CSE5048-144",
+      "code": "CSE5048",
+      "name": "Data Analytics using R",
+      "category": "Postgraduate",
+      "basket": "Data Analytics",
+      "group": "pg",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Rajesh",
+      "labFaculty": "",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        9,
+        14,
+        15,
+        26
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 78,
+      "section": "pg"
+    },
+    {
+      "id": "CSE5092-145",
+      "code": "CSE5092",
+      "name": "Cyber-physical Systems",
+      "category": "Postgraduate",
+      "basket": "IoT",
+      "group": "pg",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr.Monit Kapoor",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 40,
+      "section": "pg"
+    },
+    {
+      "id": "CSE5095-146",
+      "code": "CSE5095",
+      "name": "Robotic Operating System",
+      "category": "Postgraduate",
+      "basket": "Robotics",
+      "group": "pg",
+      "credits": 3,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr.Manjunath",
+      "labFaculty": "",
+      "theorySlots": [
+        "G2"
+      ],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        13,
+        30,
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 35,
+      "section": "pg"
+    },
+    {
+      "id": "MAT2002-150",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Bhavya K",
+      "labFaculty": "",
+      "theorySlots": [
+        "D1",
+        "TA1"
+      ],
+      "labSlots": [],
+      "cells": [
+        2,
+        11,
+        24
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-151",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ravi J",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-152",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ravi J",
+      "labFaculty": "",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-153",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Chethan",
+      "labFaculty": "",
+      "theorySlots": [
+        "B2"
+      ],
+      "labSlots": [],
+      "cells": [
+        12,
+        23,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-154",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Ms. Shwetha",
+      "labFaculty": "",
+      "theorySlots": [
+        "E1",
+        "TC1"
+      ],
+      "labSlots": [],
+      "cells": [
+        3,
+        10,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-155",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Tanuja T N",
+      "labFaculty": "",
+      "theorySlots": [
+        "B2"
+      ],
+      "labSlots": [],
+      "cells": [
+        12,
+        23,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-156",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Nagamani",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-157",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Nagamani",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-158",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Hemanta Mandal",
+      "labFaculty": "",
+      "theorySlots": [
+        "B2"
+      ],
+      "labSlots": [],
+      "cells": [
+        12,
+        23,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-159",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Hemanta Mandal",
+      "labFaculty": "",
+      "theorySlots": [
+        "E1",
+        "TC1"
+      ],
+      "labSlots": [],
+      "cells": [
+        3,
+        10,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-160",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Palle Prathap Reddy",
+      "labFaculty": "",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [],
+      "cells": [
+        0,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-161",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Palle Prathap Reddy",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT2002-162",
+      "code": "MAT2002",
+      "name": "Discrete Mathematics and Graph Theory",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Palle Prathap Reddy",
+      "labFaculty": "",
+      "theorySlots": [
+        "E1",
+        "TC1"
+      ],
+      "labSlots": [],
+      "cells": [
+        3,
+        10,
+        32
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 82,
+      "section": "science"
+    },
+    {
+      "id": "MAT1013-163",
+      "code": "MAT1013",
+      "name": "Statistics and Probability",
+      "category": "University Core",
+      "basket": null,
+      "group": "math",
+      "credits": 4,
+      "lecture": 2,
+      "practical": 2,
+      "theoryFaculty": "Dr. Padmasudha G",
+      "labFaculty": "",
+      "theorySlots": [
+        "F1"
+      ],
+      "labSlots": [
+        "L27+L28"
+      ],
+      "cells": [
+        1,
+        14,
+        15,
+        18
+      ],
+      "venue": "",
+      "remarks": "Dr. Padmasudha G",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 94,
+      "section": "science"
+    },
+    {
+      "id": "PHY1001-164",
+      "code": "PHY1001",
+      "name": "Physics of Optoelectronic Devices",
+      "category": "University Core",
+      "basket": null,
+      "group": "science",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Chandan R",
+      "labFaculty": "",
+      "theorySlots": [
+        "G1"
+      ],
+      "labSlots": [
+        "L9+L10",
+        "L1+L2"
+      ],
+      "cells": [
+        0,
+        1,
+        9,
+        16,
+        17,
+        26
+      ],
+      "venue": "",
+      "remarks": "Dr. Chandan R & Dr. Vishnu Vikesh Jaiswal, Dr. Ashwitha Nancy Dsouza & Dr. Ayushi Rastogi",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 26,
+      "section": "science"
+    },
+    {
+      "id": "PHY1004-165",
+      "code": "PHY1004",
+      "name": "Engineering Physics",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ayushi Rastogi",
+      "labFaculty": "",
+      "theorySlots": [
+        "B1"
+      ],
+      "labSlots": [],
+      "cells": [
+        8,
+        19,
+        25
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 28,
+      "section": "science"
+    },
+    {
+      "id": "PHY1004-166",
+      "code": "PHY1004",
+      "name": "Engineering Physics",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ayushi Rastogi",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 28,
+      "section": "science"
+    },
+    {
+      "id": "CHE1007-167",
+      "code": "CHE1007",
+      "name": "Chemistry for Engineering Applications",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Shruthi K S",
+      "labFaculty": "",
+      "theorySlots": [
+        "A1"
+      ],
+      "labSlots": [],
+      "cells": [
+        0,
+        17,
+        34
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 26,
+      "section": "science"
+    },
+    {
+      "id": "SSK2002-170",
+      "code": "SSK2002",
+      "name": "Being Corporate Ready",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Sangeetha K G",
+      "theorySlots": [],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        18,
+        19
+      ],
+      "venue": "AB2_114",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK2002-171",
+      "code": "SSK2002",
+      "name": "Being Corporate Ready",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Sangeetha K G",
+      "theorySlots": [],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        30,
+        31
+      ],
+      "venue": "AB2_114",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK2002-172",
+      "code": "SSK2002",
+      "name": "Being Corporate Ready",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Jasper Benarji",
+      "theorySlots": [],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7
+      ],
+      "venue": "AB2_112",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK2002-173",
+      "code": "SSK2002",
+      "name": "Being Corporate Ready",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Jasper Benarji",
+      "theorySlots": [],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        34,
+        35
+      ],
+      "venue": "AB2_114",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK2002-174",
+      "code": "SSK2002",
+      "name": "Being Corporate Ready",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Jasper Benarji",
+      "theorySlots": [],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        18,
+        19
+      ],
+      "venue": "512 A",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 30,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-175",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3
+      ],
+      "venue": "509",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-176",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        10,
+        11
+      ],
+      "venue": "511",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-177",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        26,
+        27
+      ],
+      "venue": "AB2_116",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-178",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        34,
+        35
+      ],
+      "venue": "330",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-179",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7
+      ],
+      "venue": "520",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-180",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        20,
+        21
+      ],
+      "venue": "508",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-181",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        30,
+        31
+      ],
+      "venue": "508",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-182",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Mr. SHIDDALINGA SOORAGOND",
+      "theorySlots": [],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        38,
+        39
+      ],
+      "venue": "517",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-183",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Selshiya Arputharaj Sharmi",
+      "theorySlots": [],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        30,
+        31
+      ],
+      "venue": "509",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "SSK3001-184",
+      "code": "SSK3001",
+      "name": "Problem Solving through Aptitude",
+      "category": "Soft Skills",
+      "basket": null,
+      "group": "soft",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "",
+      "labFaculty": "Ms. Selshiya Arputharaj Sharmi",
+      "theorySlots": [],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        38,
+        39
+      ],
+      "venue": "511",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 42,
+      "section": "ssk"
+    },
+    {
+      "id": "KAN1005-186",
+      "code": "KAN1005",
+      "name": "Kannada Kali (Basic Non- Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [],
+      "labSlots": [
+        "L21+L22"
+      ],
+      "cells": [
+        4,
+        5
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "KAN1005-187",
+      "code": "KAN1005",
+      "name": "Kannada Kali (Basic Non- Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        18,
+        19
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "KAN1005-188",
+      "code": "KAN1005",
+      "name": "Kannada Kali (Basic Non- Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "KAN1005-189",
+      "code": "KAN1005",
+      "name": "Kannada Kali (Basic Non- Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [],
+      "labSlots": [
+        "L39+L40"
+      ],
+      "cells": [
+        38,
+        39
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "KAN1004-190",
+      "code": "KAN1004",
+      "name": "Kannada Literature (Advanced - Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 20,
+      "section": "language"
+    },
+    {
+      "id": "KAN1004-193",
+      "code": "KAN1004",
+      "name": "Kannada Literature (Advanced - Kannadigas)",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Dr. Ashok Babu",
+      "labFaculty": "Dr. Ashok Babu",
+      "theorySlots": [
+        "C2"
+      ],
+      "labSlots": [],
+      "cells": [
+        20,
+        31,
+        37
+      ],
+      "venue": "",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 20,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-196",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal",
+      "labFaculty": "Mr. Dipankar Mondal",
+      "theorySlots": [],
+      "labSlots": [
+        "L3+L4"
+      ],
+      "cells": [
+        2,
+        3
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-197",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "labFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L7+L8"
+      ],
+      "cells": [
+        10,
+        11
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-198",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai",
+      "labFaculty": "Ms. Sia Ghai",
+      "theorySlots": [],
+      "labSlots": [
+        "L9+L10"
+      ],
+      "cells": [
+        16,
+        17
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-199",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "labFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L15+L16"
+      ],
+      "cells": [
+        26,
+        27
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-200",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "labFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L19+L20"
+      ],
+      "cells": [
+        34,
+        35
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-201",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai",
+      "labFaculty": "Ms. Sia Ghai",
+      "theorySlots": [],
+      "labSlots": [
+        "L37+L38"
+      ],
+      "cells": [
+        36,
+        37
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-202",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "labFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L1+L2"
+      ],
+      "cells": [
+        0,
+        1
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-203",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "labFaculty": "Ms. Sia Ghai / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-204",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal",
+      "labFaculty": "Mr. Dipankar Mondal",
+      "theorySlots": [],
+      "labSlots": [
+        "L23+L24"
+      ],
+      "cells": [
+        6,
+        7
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-205",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "labFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L11+L12"
+      ],
+      "cells": [
+        18,
+        19
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-206",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai",
+      "labFaculty": "Ms. Sia Ghai",
+      "theorySlots": [],
+      "labSlots": [
+        "L25+L26"
+      ],
+      "cells": [
+        12,
+        13
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-207",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai",
+      "labFaculty": "Ms. Sia Ghai",
+      "theorySlots": [],
+      "labSlots": [
+        "L29+L30"
+      ],
+      "cells": [
+        20,
+        21
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-208",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "labFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L31+L32"
+      ],
+      "cells": [
+        22,
+        23
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-209",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal",
+      "labFaculty": "Mr. Dipankar Mondal",
+      "theorySlots": [],
+      "labSlots": [
+        "L13+L14"
+      ],
+      "cells": [
+        24,
+        25
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002/SPA1001-210",
+      "code": "FRE1002/SPA1001",
+      "name": "French/Spanish",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "labFaculty": "Mr. Dipankar Mondal / Ms. Kajal Aggarwal",
+      "theorySlots": [],
+      "labSlots": [
+        "L33+L34"
+      ],
+      "cells": [
+        28,
+        29
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "FRE1002-211",
+      "code": "FRE1002",
+      "name": "French",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 1,
+      "lecture": 0,
+      "practical": 2,
+      "theoryFaculty": "Ms. Sia Ghai",
+      "labFaculty": "Ms. Sia Ghai",
+      "theorySlots": [],
+      "labSlots": [
+        "L35+L36"
+      ],
+      "cells": [
+        30,
+        31
+      ],
+      "venue": "",
+      "remarks": "",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 18,
+      "section": "language"
+    },
+    {
+      "id": "POS1045-213",
+      "code": "POS1045",
+      "name": "Geopolitics of Energy: Oil, Minerals, and Green Transition",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr. Shantanu Sharma",
+      "labFaculty": "",
+      "theorySlots": [
+        "C1"
+      ],
+      "labSlots": [],
+      "cells": [
+        16,
+        27,
+        33
+      ],
+      "venue": "226",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 32,
+      "section": "humanities"
+    },
+    {
+      "id": "POS1044-214",
+      "code": "POS1044",
+      "name": "Politics Beyond Reason: Emotion, Affect, and Power",
+      "category": "Open Elective",
+      "basket": null,
+      "group": "open",
+      "credits": 3,
+      "lecture": 3,
+      "practical": 0,
+      "theoryFaculty": "Mr. Shantanu Sharma",
+      "labFaculty": "",
+      "theorySlots": [
+        "D2",
+        "TA2"
+      ],
+      "labSlots": [],
+      "cells": [
+        6,
+        15,
+        28
+      ],
+      "venue": "226",
+      "remarks": "Open Elective",
+      "incomplete": false,
+      "project": false,
+      "aimlScore": 36,
+      "section": "humanities"
+    }
+  ],
+  "completed": [
+    {
+      "code": "CSE1006",
+      "name": "Software Engineering",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE2001",
+      "name": "Data Structures and Algorithms",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE2006",
+      "name": "Communication Networks",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE2007",
+      "name": "Relational Database Management System",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE2031",
+      "name": "Wireless Communication in IoT",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE2046",
+      "name": "Operating Systems with Linux Internals",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE3016",
+      "name": "Object Oriented Modelling and Design using UML",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE5066",
+      "name": "Research Methodologies",
+      "term": "Fall 2025-26"
+    },
+    {
+      "code": "CSE1017",
+      "name": "Programming in C and C++",
+      "term": "Winter 2025-26 / Summer 2025-26"
+    },
+    {
+      "code": "CSE2045",
+      "name": "Algorithmic Design and Analysis",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "CSE3015",
+      "name": "Natural Language Processing",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "CSE3023",
+      "name": "Fundamentals of Cloud Security",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "MAT1012",
+      "name": "Numerical Techniques",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "MGT1101",
+      "name": "Digital Entrepreneurship",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "POS1022",
+      "name": "Ethics and Social Responsibility",
+      "term": "Winter 2025-26"
+    },
+    {
+      "code": "CSE3013",
+      "name": "Deep Neural Networks",
+      "term": "Summer 2025-26"
+    },
+    {
+      "code": "CHE1003",
+      "name": "Introduction to Nanotechnology",
+      "term": "Summer 2024-25"
+    },
+    {
+      "code": "CSE1035",
+      "name": "Fundamentals of Artificial Intelligence and Machine Learning",
+      "term": "Summer 2024-25"
+    },
+    {
+      "code": "CSE2015",
+      "name": "Source Code Management",
+      "term": "Summer 2024-25"
+    },
+    {
+      "code": "ECE2006",
+      "name": "Computer Architecture and Organization",
+      "term": "Summer 2024-25"
+    },
+    {
+      "code": "PSY5120",
+      "name": "Organizational Behaviour",
+      "term": "Summer 2024-25"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #f3f1ec;
+  --color-surface: #fffcf7;
+  --color-surface-2: #ebe7de;
+  --color-ink: #16181d;
+  --color-ink-soft: #3a3f48;
+  --color-muted: #6a6f78;
+  --color-faint: #8b9098;
+  --color-line: #d8d3c8;
+  --color-line-strong: #c3bdb0;
+  --color-navy: #243044;
+  --color-navy-deep: #1a2333;
+  --color-sage: #c5d5cc;
+  --color-sage-deep: #9bb3a7;
+  --color-sand: #e6dcc8;
+  --color-sand-deep: #d3c6a8;
+  --color-theory: #d7e4dc;
+  --color-lab: #efe4cf;
+  --color-gap: #f7f4ee;
+  --color-danger: #8f3d3d;
+  --color-ok: #2f5d48;
+  --color-warn: #8a5a22;
+
+  --color-course-0: #d7e4dc;
+  --color-course-1: #efe4cf;
+  --color-course-2: #d5dce8;
+  --color-course-3: #e4d5d0;
+  --color-course-4: #d6e0d0;
+  --color-course-5: #e8ddc6;
+  --color-course-6: #d4d8e2;
+  --color-course-7: #e2d8d3;
+  --color-course-8: #cfe0da;
+  --color-course-9: #eadfc8;
+
+  --font-display: "Newsreader", "Times New Roman", serif;
+  --font-sans: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  --shadow-border: 0 0 0 1px rgba(22, 24, 29, 0.08), 0 1px 2px rgba(22, 24, 29, 0.04);
+  --shadow-border-hover: 0 0 0 1px rgba(22, 24, 29, 0.12), 0 6px 16px rgba(22, 24, 29, 0.06);
+
+  --ease-smooth-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html,
+  body,
+  #app {
+    min-height: 100%;
+    background: var(--color-bg);
+    color: var(--color-ink);
+    overflow-x: hidden;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.pressable {
+  transition: transform 150ms var(--ease-smooth-out), box-shadow 150ms var(--ease-smooth-out),
+    background-color 150ms var(--ease-smooth-out);
+}
+.pressable:active:not(:disabled) {
+  transform: scale(0.96);
+}
+
+.gap-hatch {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 3px,
+    rgba(22, 24, 29, 0.04) 3px,
+    rgba(22, 24, 29, 0.04) 4px
+  );
+}
+
+.masthead-rule {
+  background: linear-gradient(90deg, var(--color-navy) 0 42%, var(--color-sage-deep) 42% 70%, var(--color-sand-deep) 70% 100%);
+}
+
+@media print {
+  body {
+    background: white;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-block {
+    break-inside: avoid;
+  }
+}

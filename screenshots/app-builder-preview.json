@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ClearSlot",
+      "hasCanvas": false,
+      "bodyTextLen": 6177,
+      "bodyTextHash": "d527768d39caf8007af27fe272a08fcced8a210e8828f4703eba85b03824f29b",
+      "bodyTextPrefix": "SCFAS · AMITY UNIVERSITY BENGALURU ClearSlot Fall 2026 AIML regi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ClearSlot",
+      "hasCanvas": false,
+      "bodyTextLen": 6177,
+      "bodyTextHash": "d527768d39caf8007af27fe272a08fcced8a210e8828f4703eba85b03824f29b",
+      "bodyTextPrefix": "SCFAS · AMITY UNIVERSITY BENGALURU ClearSlot Fall 2026 AIML regi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
